@@ -1,0 +1,12 @@
+Evento que activa la automatización:
+- Se registra un nuevo apoyo ciudadano en una causa.  
+
+Mensaje que se envía:
+- "Se ha sumado un nuevo apoyo a la causa. Revisa el sistema para ver el progreso."  
+
+Información que no debe enviarse por seguridad:
+- Nombres completos de los ciudadanos.  
+- Correos electrónicos personales.  
+- Números de teléfono.  
+- Direcciones físicas.  
+- Comentarios privados o sensibles.  

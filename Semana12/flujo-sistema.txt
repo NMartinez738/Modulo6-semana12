@@ -1,0 +1,8 @@
+1. El ciudadano accede al portal y selecciona la opción “Nueva petición”.  
+2. El sistema guía al usuario para redactar su solicitud en un formulario breve.  
+3. La petición se guarda en la base de datos y recibe un identificador único.  
+4. Otros ciudadanos pueden visualizar la petición y sumarse con un clic de apoyo.  
+5. El sistema actualiza automáticamente el conteo de apoyos y muestra el progreso.  
+6. Al cumplirse el umbral definido, se genera un documento oficial en formato PDF.  
+7. El documento se envía electrónicamente a la entidad correspondiente y queda
+disponible para consulta pública.

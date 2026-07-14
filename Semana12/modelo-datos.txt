@@ -1,0 +1,11 @@
+Entidad: Causa
+- id: Identificador único de la causa.
+- titulo: Nombre o título breve de la causa.
+- descripcion: Texto que explica el motivo o detalle de la causa.
+- fecha: Fecha en la que se creó la causa.
+
+Entidad: Apoyo
+- id: Identificador único del apoyo.
+- causa_id: Relación con la causa a la que pertenece el apoyo.
+- nombre: Nombre del ciudadano que brinda el apoyo.
+- fecha: Fecha en la que se registró el apoyo.
